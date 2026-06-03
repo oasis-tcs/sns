@@ -1,0 +1,5 @@
+# License Terms
+
+Content in this GitHub code repository has been [contributed](https://www.oasis-open.org/policies-guidelines/ipr#def-contribution) by OASIS TC Members, and is governed by the OASIS policies, including the [Intellectual Property Rights (IPR) Policy](https://www.oasis-open.org/policies-guidelines/ipr), the [Technical Committee (TC) Process](https://www.oasis-open.org/policies-guidelines/tc-process), the [OASIS Bylaws](https://www.oasis-open.org/policies-guidelines/bylaws), and the Technical Committee's choice of [IPR Mode](https://www.oasis-open.org/policies-guidelines/ipr#def-ipr-mode) which is [RAND](https://www.oasis-open.org/policies-guidelines/ipr/#RF-Rand), including any applicable [declarations](https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=b668f1aa-97fb-41e7-a62c-019a2b5f2b61)
+Description of this repository is presented in the [README](https://github.com/oasis-tcs/sns/blob/master/README.md) file, and guidelines for contribution/participation are given in the [CONTRIBUTING](https://github.com/oasis-tcs/sns/blob/master/CONTRIBUTING.md) file.
+
